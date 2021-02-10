@@ -1,0 +1,1 @@
+Started learning React Native from scratch
