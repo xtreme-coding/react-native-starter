@@ -2,8 +2,13 @@ import React from "react";
 import { View, Text, StyleSheet, Button } from "react-native";
 
 const CounterScreen = () => {
+  // todo: fix this
+  counter = 0;
+
   return (
     <View>
+      <Button title="Increase" />
+      <Button title="Decrease" />
       <Text>Current Count:</Text>
     </View>
   );
